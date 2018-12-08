@@ -1,0 +1,4 @@
+./setup.sh 
+./server.out 172.20.56.1 topo.txt
+in another terminal
+python driver.py topo.txt
